@@ -8,3 +8,7 @@
 - code will generate `book_data.csv` output
 
 ## 3. Selenium
+- download 'Selenium' project folder
+- in the file selenium_projects.py, change the gecko_path according to your own gecko in your own computer
+- in your terminal, run the command 'python3 selenium_projects.py'
+- code will generate 'book.csv' as the output from webscrapping
