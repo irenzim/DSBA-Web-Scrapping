@@ -2,7 +2,10 @@
 ## 1. Beautiful Soup 
 - download `soup` project folder
 - install necessary libraries: requests, re, pandas, BeautifulSoup, time
+- in `soup.py` the `page_limit` is set to True and the limited number of pages will be scraped (number can be edited as well), to scrap all the pages change `page_limit = False` 
 - Run the code in Python3 interpreter: `python3 soup.py`
+- code will generate `book.csv` output
+
 
 ## 2. Scrapy 
 - download `libristo` scrapy project folder
